@@ -1,4 +1,4 @@
-# Astra Framework
+# Astra Agentic AI Framework
 
 Astra is a lightweight AI agent framework designed to orchestrate tasks, leverage external tools, and automate workflows using local or remote LLMs.
 
